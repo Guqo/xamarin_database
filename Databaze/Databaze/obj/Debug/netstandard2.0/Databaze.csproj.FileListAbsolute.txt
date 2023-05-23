@@ -1,0 +1,15 @@
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\bin\Debug\netstandard2.0\Databaze.deps.json
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\bin\Debug\netstandard2.0\Databaze.dll
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\bin\Debug\netstandard2.0\ref\Databaze.dll
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\bin\Debug\netstandard2.0\Databaze.pdb
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\Databaze.csproj.AssemblyReference.cache
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\Databaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\Databaze.AssemblyInfoInputs.cache
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\Databaze.AssemblyInfo.cs
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\Databaze.csproj.CoreCompileInputs.cache
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\Databaze.dll
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\ref\Databaze.dll
+C:\Users\ryto0\source\repos\Databaze\Databaze\Databaze\obj\Debug\netstandard2.0\Databaze.pdb
